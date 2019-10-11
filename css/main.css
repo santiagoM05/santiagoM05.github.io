@@ -12,3 +12,13 @@ body {
    font-family: helvetica;
 
 }
+
+h2:hover{
+ Font-size:200%;
+ color:black
+}
+
+h2:active{
+ Font-size:200%;
+ color:white
+}
