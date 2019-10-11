@@ -13,9 +13,9 @@ body {
 
 }
 
-h2:hover{
+h2:hover::First-letter{
  Font-size:200%;
- color:black
+ color:red
 }
 
 h2:active{
