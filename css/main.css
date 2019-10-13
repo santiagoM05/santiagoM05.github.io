@@ -22,3 +22,11 @@ h2:active{
  Font-size:200%;
  color:Yellow
 }
+
+a:link{
+  color:teal
+}
+
+a:visited{
+ color:orange
+}
