@@ -32,7 +32,7 @@ a:visited{
 }
 
 iframe{
-  transition:width:1s,height:1s,filter:1s
+  transition:width:1s:height:1s:filter:1s
 }
 
 iframe:hover{
