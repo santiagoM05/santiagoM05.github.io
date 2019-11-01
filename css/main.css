@@ -32,11 +32,11 @@ a:visited{
 }
 
 iframe{
-transition:1s}
+transition: width:1s, height:1s, filter:1s}
 
 
 iframe:hover{
-  width:110%;
-  height:110%;
+  width:570px;
+  height:325px;
   filter:brightness(110%);
   }
