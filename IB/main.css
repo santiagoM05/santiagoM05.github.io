@@ -9,8 +9,8 @@ background-color:#999999
 transition: width 1s, height 1s, brightness 1s;}
 
 img:hover{
-  width:225px;
-  height:225px;
+  width:325px;
+  height:275px;
   brightness:(110%)}
 
 span{
