@@ -3,11 +3,6 @@ background-color:#999999
 }
 
 
-.first img{
-  width:200px;
-  height:200px;
-transition: width 2s, height 2s, brightness 2s;}
-
 img:hover{
   transform: rotate(360deg);
     width: 200px;
