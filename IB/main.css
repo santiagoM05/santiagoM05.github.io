@@ -6,7 +6,7 @@ background-color:#999999
 .first img{
   width:200px;
   height:200px;
-transition: width 1s height 1s brightness 1s}
+transition: width 1s, height 1s, brightness 1s;}
 
 img:hover{
   width:225px;
