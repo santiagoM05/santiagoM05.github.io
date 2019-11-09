@@ -9,9 +9,9 @@ background-color:#999999
 transition: width 2s, height 2s, brightness 2s;}
 
 img:hover{
-  width:110%;
-  height:110%;
-  brightness:(115%)}
+  transform: rotate(360deg);
+    width: 200px;
+    height: 200px;}
 
 span{
 font-size:20px;
