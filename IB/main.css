@@ -24,12 +24,12 @@ font-size:20px;
 #primero{
     font-size:16px;
     font-weight:bold;
-    background-color:blue;
+    background-color:#3333aa;
     animation: one 4s;
 }
 
 @keyframes{
-    {from: background-color: blue}
-    {to: background-color: purple}
+    {from: background-color: #3333aa}
+    {to: background-color: #FF00FF}
 }
     
