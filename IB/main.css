@@ -9,7 +9,7 @@ transition: transform 1s, width 1s, height 1s;
 
 img.foto1:active {
     transform: rotate(360deg);
-    width: 250px;
+    width: 350px;
     height: 250px;
 
 span{
