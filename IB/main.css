@@ -29,6 +29,10 @@ font-size:20px;
     animation:div 4s forwards;
 }
 
+div.lugar{background-color:Darkgreen;
+Font-family:TimesNewRoman
+}
+
 
 @keyframes sepiaFilter {
     from {filter: sepia(0%);}
