@@ -29,7 +29,8 @@ font-size:20px;
     animation:div 4s forwards;
 }
 
-div.lugar{Font-family:TimesNewRoman;
+div.lugar{background-color:green;
+    Font-family:TimesNewRoman;
 }
 
 
