@@ -4,6 +4,7 @@ background-color:#999999
 
 img.foto1{
 transition:transform 1s;
+animation: sepiaFilter 2s forwards;
 }
 
 
@@ -28,11 +29,6 @@ font-size:20px;
     animation: one 4s;
 }
 
-
-    
-img.filtered-image {
-    animation: sepiaFilter 2s forwards;
-}
 
 @keyframes sepiaFilter {
     from {
