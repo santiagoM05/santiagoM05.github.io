@@ -28,8 +28,18 @@ font-size:20px;
     animation: one 4s;
 }
 
-@keyframes{
-    {from: background-color: #3333aa}
-    {to: background-color: #FF00FF}
-}
+
     
+img.filtered-image {
+    animation: sepiaFilter 2s forwards;
+}
+
+@keyframes sepiaFilter {
+    from {
+        filter: sepia(0%);
+    }
+    
+    to {
+        filter: sepia(100%);
+    }
+}
