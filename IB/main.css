@@ -26,7 +26,7 @@ font-size:20px;
     font-size:16px;
     font-weight:bold;
     background-color:#3333aa;
-    animation:div 4s;
+    animation:div 4s forwards;
 }
 
 
