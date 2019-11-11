@@ -26,16 +26,16 @@ font-size:20px;
     font-size:16px;
     font-weight:bold;
     background-color:#3333aa;
-    animation: one 4s;
+    animation:div 4s;
 }
 
 
 @keyframes sepiaFilter {
-    from {
-        filter: sepia(0%);
-    }
-    
-    to {
-        filter: sepia(100%);
-    }
+    from {filter: sepia(0%);}
+    to {filter: sepia(100%);}
+}
+
+@keyframes div{
+    from{background-color:#3333aa;}
+    to{background-color:#aaaa33}
 }
