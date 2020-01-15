@@ -23,3 +23,17 @@ for(p= 0; p<9; p++){
 var ans = Math.pow(2,p);
   document.write("the power is:" + ans + "<br/>");
 }
+
+document.write("Square loop <br/>");
+var p;
+for(p= 0; p<9; p++){
+var ans = Math.sqrt(2,p);
+  document.write("the power is:" + ans + "<br/>");
+}
+
+document.write("Random loop <br/>");
+var p;
+for(p= 0; p<9; p++){
+var ans = Math.random(2,p);
+  document.write("the power is:" + ans + "<br/>");
+}
