@@ -25,15 +25,15 @@ var ans = Math.pow(2,p);
 }
 
 document.write("Square loop <br/>");
-var p;
-for(p= 0; p<9; p++){
-var ans = Math.sqrt(2,p);
-  document.write("the power is:" + ans + "<br/>");
+var l;
+for(l= 0; l<9; l++){
+var ans = Math.sqrt(l);
+  document.write("the square is:" + ans + "<br/>");
 }
 
 document.write("Random loop <br/>");
-var p;
-for(p= 0; p<9; p++){
-var ans = Math.random(2,p);
-  document.write("the power is:" + ans + "<br/>");
+var n;
+for(n= 0; n<9; n++){
+var ans = Math.random(n);
+  document.write("random:" + ans + "<br/>");
 }
