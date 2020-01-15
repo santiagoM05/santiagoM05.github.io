@@ -26,7 +26,7 @@ var ans = Math.pow(2,p);
 
 document.write("Square loop <br/>");
 var l;
-for(l= 0; l<9; l++){
+for(l= 2; l<10; l++){
 var ans = Math.sqrt(l);
   document.write("the square is:" + ans + "<br/>");
 }
@@ -34,6 +34,6 @@ var ans = Math.sqrt(l);
 document.write("Random loop <br/>");
 var n;
 for(n= 0; n<9; n++){
-var ans = Math.random(n);
+var ans = Math.random();
   document.write("random:" + ans + "<br/>");
 }
