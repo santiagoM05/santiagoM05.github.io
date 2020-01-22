@@ -37,3 +37,15 @@ for(n= 0; n<9; n++){
 var ans = Math.random();
   document.write("random:" + ans + "<br/>");
 }
+
+function myLoop(){
+    
+var start = document.getElementById("start").value;
+var end = document.getElementById("end").value;
+for(var i=start; i<= end; i++)
+  {
+    document.write("<p>"+ i+ "</p>");
+  }
+
+
+}
